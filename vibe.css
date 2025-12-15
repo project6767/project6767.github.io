@@ -20,6 +20,12 @@ body{
 
     }
 
+    h6{
+
+        text-align: center;
+        
+    }
+
     .page{
 
         background-color: #fafafa;
@@ -83,5 +89,6 @@ body{
     
 
 }
+
 
 
