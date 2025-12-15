@@ -71,6 +71,14 @@ body{
 
         }
 
+        img, iframe{
+
+            height="480px"
+            margin="auto"
+            
+        }
+
     }
     
+
 }
